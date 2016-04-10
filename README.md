@@ -1,8 +1,8 @@
-## Open Source Library
+## Notice
 
-GomdoLight App Manager uses Open Source Libraries to implement some feature.
+GomdoLight App Manager uses several Open Source Libraries to implement its essential features.
 
-## List
+## Libraries Used
 
  * Apache Commons-io [Github](https://github.com/apache/commons-io)
 
